@@ -1,0 +1,9 @@
+{
+        "files.associations": {
+                "*.asm": "MIPS Assembly",
+                "chrono": "cpp",
+                "functional": "cpp",
+                "iostream": "cpp",
+                "ostream": "cpp"
+        }
+}
